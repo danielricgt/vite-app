@@ -1,2 +1,2 @@
 import './src/blackjack/index';
-import '../vite-app/s
+import './style.css';
